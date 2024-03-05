@@ -1,0 +1,24 @@
+{
+  "name": "e-commercebackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nayakvishwam/E-commerce_Site_node.git"
+  },
+  "author": "Nayak Vishwam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nayakvishwam/E-commerce_Site_node/issues"
+  },
+  "homepage": "https://github.com/Nayakvishwam/E-commerce_Site_node#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "express": "^4.18.3",
+    "mongoose": "^8.2.1"
+  }
+}
